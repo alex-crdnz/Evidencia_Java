@@ -1,0 +1,4 @@
+El sistema de Administracion De Citas es una aplicacion que funciona 
+para tener un control de doctores, pacientes y citas
+contando con los archivos correspondientes para cada uno y la 
+relacion final de la cita ya confirmada
